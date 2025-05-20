@@ -1,0 +1,35 @@
+===== Monte Carlo Simulation Results =====
+
+Number of iterations: 400000
+Base frequency: 50000000 Hz
+
+Mean Frequency: 49999999.996591 Hz
+Standard Deviation: 2.894489 Hz
+Skewness: 0.000963
+Kurtosis: -1.186411
+
+===== Coverage Intervals =====
+
+95% Coverage Interval: [49999995.234525, 50000004.763575] Hz
+95% Coverage Interval Offsets: [-4.765475, 4.763575] Hz
+95% Coverage Uncertainty: 4.764525 Hz
+95% Result: 49999999.996591 +/- 4.764525 Hz
+
+99% Coverage Interval: [49999994.915217, 50000005.086911] Hz
+99% Coverage Uncertainty: 5.085847 Hz
+99% Result: 49999999.996591 +/- 5.085847 Hz
+
+===== GUM Approach =====
+
+Unexpanded Uncertainty (k=1): 2.894489 Hz
+Expanded Uncertainty (k=2): 5.788979 Hz
+
+===== Uncertainty Contributions =====
+
+Contributor                Percentage (%)
+------------------------------------------
+Systematic Uncertainty              99.48
+Random Uncertainty                   0.52
+Standard Uncertainty                 0.00
+Time Base Accuracy                   0.00
+Display Resolution                   0.00

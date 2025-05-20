@@ -1,0 +1,6 @@
+# Core dependencies for Monte Carlo Simulation
+numpy>=1.26.0
+matplotlib>=3.10.0
+scipy>=1.15.0
+pandas>=2.2.0
+openpyxl>=3.1.2  # Required for pandas Excel export
